@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "tempus-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corcaioch/tempus.git"
+  },
+  "keywords": [
+    "time-tracking"
+  ],
+  "author": "mossy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corcaioch/tempus/issues"
+  },
+  "homepage": "https://github.com/corcaioch/tempus#readme"
+}
